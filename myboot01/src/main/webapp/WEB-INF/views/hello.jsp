@@ -14,7 +14,7 @@
 zzzzzzzzzz334444444444444
 </head>
 <body>
-  안녕하세요ㅋㅋ <br>
+  22안녕하세요ㅋㅋ <br>
   <h2>${message}</h2>
   <img width=200 height=200  src="${contextPath}/image/duke3.png" /> <br/>
   <input type="button" name="테스트" value="테스트" onClick="test();">
